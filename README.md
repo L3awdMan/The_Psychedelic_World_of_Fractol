@@ -2,23 +2,18 @@
   <img src="img/Fractol_Banner.gif" alt="Fractol Banner" width="500"/>
 </p>
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/🌀-FRACTOL-ff00ff?style=for-the-badge&labelColor=000000" alt="Fractol"/>
-</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/42-School_Project-000000?style=flat-square&logo=42&logoColor=white" alt="42"/>
   <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Graphics-MiniLibX-purple?style=flat-square" alt="MiniLibX"/>
-  <img src="https://img.shields.io/badge/Math-Complex_Numbers-ff6b6b?style=flat-square" alt="Complex Numbers"/>
-  <img src="https://img.shields.io/badge/Vibes-Psychedelic-rainbow?style=flat-square" alt="Psychedelic"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🍃-Amnesia-green?style=flat-square" alt="Amnesia"/>
-  <img src="https://img.shields.io/badge/💜-MDMA-purple?style=flat-square" alt="MDMA"/>
-  <img src="https://img.shields.io/badge/🔴-LSD-red?style=flat-square" alt="LSD"/>
-  <img src="https://img.shields.io/badge/🌸-Mushrooms-pink?style=flat-square" alt="Mushrooms"/>
+  <img src="https://img.shields.io/badge/🌀-FRACTOL-ff00ff?style=for-the-badge&labelColor=000000" alt="Fractol"/>
+  <img src="https://img.shields.io/badge/Effect-Amnesia-228B22?style=for-the-badge&labelColor=000000" alt="Amnesia"/>
+  <img src="https://img.shields.io/badge/Effect-MDMA-9400D3?style=for-the-badge&labelColor=000000" alt="MDMA"/>
+  <img src="https://img.shields.io/badge/Effect-LSD-FF0000?style=for-the-badge&labelColor=000000" alt="LSD"/>
+  <img src="https://img.shields.io/badge/Effect-Mushrooms-FF69B4?style=for-the-badge&labelColor=000000" alt="Mushrooms"/>
 </p>
 
 <h3 align="center">
