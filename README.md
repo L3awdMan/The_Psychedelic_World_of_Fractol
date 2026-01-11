@@ -31,46 +31,38 @@
   </td>
   </tr>
   </table>
-  
 </p>
+
 ---
 
-<br>
-
-<-- ═══════════════════════════════════════════════════════════════════════════ -->
-<-- ░░░░░░░░░░░░░░░░░░░░░ THE MOUL NDADER SPEECH ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🎤 THE SPEECH 🎤</h2>
 
 **Alright, SALAM O ALAYKUM *brothers*...**
 
 PEACE to all the homies that they like us...  
 and for the haters that they don't like us... ***you already know***
 
----
+
 <p align="center">
   <img src="img/moul_ndader_peace.png" width="400"/>
 </p>
 
 <div align="center">
 
----
+
 
 
 
 </div>
 
-<br>
 
-> **Big dédicace to:**
-> 
-> 🎯 My brother **Lotfi aniki** a.k.a BH madfack tu connais...  
-> 💎 Frérot **KiKi**, do you love me  
-> 🔥 **Anisse aniki** brovski  
-> 👑 Ladies and gentlemen **housii ya3ni**  
-> ⚡ And of course we will not forget **shawz** my.. real.. G..  
-> *the one who inspired this whole madness...*
+
+**Big dédicace to:**
++ **My brother *Lotfi aniki* a.k.a BH madfack tu connais...**
++ **Frérot **KiKi**, do you love me ?**  
++ ***Anisse Kawaii* brovski**  
++ **Ladies and gentlemen *housii ya3ni***  
++ **And of course we will not forget *shawz* my.. real.. G..**  
+ *the one who inspired this whole madness...*
 
 <br>
 
@@ -80,18 +72,15 @@ and for the haters that they don't like us... ***you already know***
 
 <br>
 
-<div align="center">
-
 **SHOUTOUT to all the homies worldwide, especially:**
 
-<p align="center">
-    **· Oujda**     
-    **· Angers** 
-    **· Batna** 
-    **· Rabat** 
-    **· Lille** 
-    **· CASA ..** 
-</p>
++ **Oujda**     
++ **Angers** 
++ **Batna** 
++ **Rabat** 
++ **Lille** 
++ **CASA ..** 
+
 
 </div>
 
@@ -131,30 +120,28 @@ We're not doing games over here...
 Ain't no so long...  
 **NAAAH...**
 
----
-
 This is **Fractol**... the real thing...
 
 </div>
 
 <br>
 
-<table align="center">
+<div align="center">
 <tr>
 <td>
 
-> *The gate to a psychedelic realm*  
-> *Infinite patterns*  
-> *Getting high by mathematics*  
-> *Zooming... until reaching nirvana*  
-> *Games? That's for later. Now we're hustling pixels...*  
-> *WE ARE here to grind...*  
->
-> **IRON MAN WILL DIE.**
+*The gate to a psychedelic realm*  
+*Infinite patterns*  
+*Getting high by mathematics*  
+*Zooming... until reaching nirvana*  
+*Games? That's for later. Now we're hustling pixels...*  
+*WE ARE here to grind...*  
 
+ **IRON MAN WILL DIE.**
+ 
 </td>
 </tr>
-</table>
+</div>
 
 <br>
 
@@ -190,19 +177,6 @@ This is **Fractol**... the real thing...
   <em>Watching others won't get you sh*t</em>
 </h4>
 
-<br>
-
----
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ THE MATHEMATICS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📐 THE MATHEMATICS 📐</h2>
-
-<br>
 
 <h4 align="center">The Newton-Raphson iteration formula that you guys struggle with:</h4>
 
@@ -222,7 +196,9 @@ This is **Fractol**... the real thing...
 
 <p align="center">
   <em>I got the solution...</em>
-  <img src="img/moul_ndader_solution.png" width="700"/>
+  <p align="center">
+   <img src="img/moul_ndader_solution.png" width="500"/>
+  </p>
   <br><br>
   I'm joking... here is the <strong>real</strong> solution:
 </p>
