@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Effect-Mushrooms-FF69B4?style=for-the-badge&labelColor=000000" alt="Mushrooms"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Iron_Man-Will_Die-000000?style=for-the-badge&labelColor=ff0000" alt="Iron Man Will Die"/>
+</p>
+
 ---
 <p align="center">
   
@@ -24,9 +28,9 @@
   <td width="10%">
     <img src="img/lost_contact_with_life.gif" alt="lost_contact_with_life" width="100"/>
   </td>
-  <td width="40%">
+  <td width="70%">
     <h3 align="center">
-      <em>「 Where You Will Lose Contact With Life 」</em>
+      <em>「Where You Will Lose Contact With Life」</em>
     </h3>
   </td>
   </tr>
@@ -789,10 +793,6 @@ make
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Iron_Man-Will_Die-000000?style=for-the-badge&labelColor=ff0000" alt="Iron Man Will Die"/>
-</p>
 
 <br>
 
