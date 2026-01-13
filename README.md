@@ -28,13 +28,19 @@
 
 ##  Table of Contents
 
-- [The Speech](#the-speech)
-- [The Mathematics](#the-mathematics)
-- [Trip Start](#trip-start)
-- [1. Mandelbrot Set](#-1-mandelbrot-set)
-- [2. Julia Set](#-2-julia-set)
-- [3. Newton Set](#-3-newton-set)
-- [4. Flower Set](#-4-flower-set)
+- [Moul ndader speech](#the-speech)
+  - [Moul Ndader Intro & Shoutout](#the-speech)
+  - [Moul Ndader Message](#the-speech)
+  - [Moul Ndader Studying hard](#the-speech)
+  - [Moul Ndader Solution](#the-speech)
+  - [Moul Ndader Solve Newton Formula](#the-speech) 
+  - [Moul Ndader Solve Mister Julia Formula](#the-speech)
+  - [Moul Ndader Challenge EVERYBODY](#the-speech) 
+- [The Psychedelic Trip Start](#trip-start)
+  - [1. Mandelbrot Set](#-1-mandelbrot-set)
+  - [2. Julia Set](#-2-julia-set)
+  - [3. Newton Set](#-3-newton-set)
+  - [4. Flower Set](#-4-flower-set)
 - [Installation](#-installation)
 - [Technical Documentation](#-technical-documentation)
 
@@ -52,9 +58,6 @@ and for the haters that they don't like us... ***you already know***
 </p>
 
 <div align="center">
-
-
-
 
 
 </div>
@@ -146,7 +149,7 @@ This is **Fractol**... the real thing...
 <h3>ANYWHO... Let's start</h3>
 
 <p align="center">
-  <img src="img/moul_ndader_face.png" width="250"/>
+  <img src="img/moul_ndader_face.png" width="400"/>
 </p>
 
 <h4>
@@ -160,12 +163,15 @@ This is **Fractol**... the real thing...
 <br>
 
 <p align="center">
-  <img src="img/moul_ndader_holding_pen.png" width="280"/>
+  <img src="img/moul_ndader_holding_pen.png" width="'400"/>
 </p>
 
 <h4 >
-  <strong>The pen</strong>... 
-  <br><br>
+  <strong>The pen 🖊️</strong>... 
+  <br>
+  <strong>Is the weopen ⚔️</strong>... 
+  <br>
+  <br>
   <em>Let us study and focus on ourselves...</em>
   <br>
   <em>Watching others won't get you sh*t</em>
@@ -177,10 +183,9 @@ This is **Fractol**... the real thing...
   that you guys struggle with
 </h4>
 
-
 <br>
 
-<em>I got the solution : </em>
+<em><strong>I got the solution : </strong></em>
 
 <p align="center">
    <img src="img/moul_ndader_solution.png" width="500"/>
@@ -197,7 +202,6 @@ This is **Fractol**... the real thing...
   <strong>géométrie .. fractale</strong>
   <br>
 </h4>
-<br>
 
 <h4>And also draw the curve (Euler Curve)...</h4>
 <p><em>if you don't draw the curve.. I'll show you...</em></p>
@@ -213,7 +217,7 @@ This is **Fractol**... the real thing...
 
 <p align="center">
 <br><br>
-  I'm joking... here is the <strong>real</strong> solution:
+  <h5>I'm joking... here is the <strong>real</strong> solution:</h5>
 </p>
 
 
