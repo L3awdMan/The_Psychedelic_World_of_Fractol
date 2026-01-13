@@ -1,9 +1,6 @@
 > [!NOTE]
 > This README is inspired by a legend called **Moul Ndader**. If you don't know him or don't understand what's going on here... it is what it is.
 
-> [!CAUTION]
-> **Disclaimer:** This README is themed around psychedelic experiences for creative/artistic purposes only. The author does not endorse or encourage the use of illegal substances. ⚠️
-
 <p align="center">
   <img src="img/Fractol_Banner.gif" alt="Fractol Banner" width="500"/>
 </p>
@@ -26,7 +23,8 @@
   <img src="https://img.shields.io/badge/Iron_Man-Will_Die-000000?style=for-the-badge&labelColor=ff0000" alt="Iron Man Will Die"/>
 </p>
 
----
+> [!CAUTION]
+> **Disclaimer:** This README is themed around psychedelic experiences for creative/artistic purposes only. The author does not endorse or encourage the use of illegal substances. ⚠️
 
 ##  Table of Contents
 
@@ -73,7 +71,7 @@ and for the haters that they don't like us... ***you already know***
 
 <br>
 
-<p align="center">
+<p>
   👉 <em>Make sure to check his legendary document</em> 👈
 </p>
 
@@ -92,8 +90,6 @@ and for the haters that they don't like us... ***you already know***
 </div>
 
 <br>
-
----
 
 <br>
 
@@ -144,8 +140,6 @@ This is **Fractol**... the real thing...
 
 
 <br>
-
----
 
 <br>
 
@@ -243,8 +237,6 @@ This is **Fractol**... the real thing...
 
 <br>
 
----
-
 <br>
 
 <h4>And the second formula of <strong>Mister Julia</strong></h4>
@@ -267,9 +259,7 @@ This is **Fractol**... the real thing...
   <br>
   It must always remain <strong>bounded</strong> and not escape
 </p>
-
----
-
+    
 <br>
 
 <div>
@@ -308,7 +298,7 @@ I'm not afraid of nobody
 
 <br>
 
-## Trip Start
+### Trip Start
 
 <p align="center">
   <img src="img/Trip_start_banner.gif" alt="Trip Start Banner" width="700"/>
@@ -366,8 +356,6 @@ That psychedelic realm where:
 </p>
 
 <br>
-
----
 
 <br>
 
@@ -434,8 +422,6 @@ and infinity feels... familiar
 </details>
 
 <br>
-
----
 
 <br>
 
@@ -508,8 +494,6 @@ you **feel** it.
 
 <br>
 
----
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -581,7 +565,6 @@ Pure math hallucinating in real time.
 
 <br>
 
----
 
 <br>
 
@@ -650,12 +633,6 @@ And starts being life.
 
 <br>
 
----
-
-<br>
-
----
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -685,8 +662,6 @@ make
 
 <br>
 
----
-
 <br>
 
 
@@ -708,13 +683,6 @@ make
 
 <br>
 
----
-
-<br>
-
-<h2 align="center">
-  🌀 ═══════════════════════════════ 🌀
-</h2>
 
 <br>
 
