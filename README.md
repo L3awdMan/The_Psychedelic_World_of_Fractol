@@ -1,3 +1,6 @@
+> [!NOTE]
+> This README is inspired by a legend called **Moul Ndader**. If you don't know him or don't understand what's going on here... it is what it is.
+
 <p align="center">
   <img src="img/Fractol_Banner.gif" alt="Fractol Banner" width="500"/>
 </p>
@@ -16,92 +19,88 @@
   <img src="https://img.shields.io/badge/Effect-Mushrooms-FF69B4?style=for-the-badge&labelColor=000000" alt="Mushrooms"/>
 </p>
 
-<h3 align="center">
-  <em>「 Where You Will Lose Contact With Life 」</em>
-</h3>
-
 <p align="center">
-  <strong>🌀 Infinite patterns • 🧠 Getting high by mathematics • 🔮 Zooming until nirvana 🌀</strong>
+  <img src="https://img.shields.io/badge/Iron_Man-Will_Die-000000?style=for-the-badge&labelColor=ff0000" alt="Iron Man Will Die"/>
 </p>
+
+> [!CAUTION]
+> **Disclaimer:** This README is themed around psychedelic experiences for creative/artistic purposes only. The author does not endorse or encourage the use of illegal substances. ⚠️
+
+##  Table of Contents
+
+- [Moul ndader speech](#Alright,)
+  - [Moul Ndader Intro & Shoutout](#Big-dédicace-to)
+  - [Moul Ndader Message](#I-got-a-message-to-share.)
+  - [Moul Ndader Studying hard](#ANYWHO...-Let's-start)
+  - [Moul Ndader Solution](#I-got-the-solution-:)
+  - [Moul Ndader Solve Newton Formula](#I'm-joking...-here-is-the-real-solution:) 
+  - [Moul Ndader Solve Mister Julia Formula](#the-second-formula-of-Mister-Julia)
+  - [Moul Ndader Challenge EVERYBODY](#And-F**k-the-world) 
+- [The Psychedelic Trip Start](#trip-start)
+  - [Intro to my psychedelic realm](#But-wait... )
+  - [1. Mandelbrot Set](#-1-mandelbrot-set)
+  - [2. Julia Set](#-2-julia-set)
+  - [3. Newton Set](#-3-newton-set)
+  - [4. Flower Set](#-4-flower-set)
+- [Installation](#-installation)
+- [Technical Documentation](#-technical-documentation)
 
 ---
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░ THE MOUL NDADER SPEECH ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🎤 THE SPEECH 🎤</h2>
 
 **Alright, SALAM O ALAYKUM *brothers*...**
 
 PEACE to all the homies that they like us...  
 and for the haters that they don't like us... ***you already know***
 
----
+
 <p align="center">
   <img src="img/moul_ndader_peace.png" width="400"/>
 </p>
 
 <div align="center">
 
----
 
+</div>
+
+
+
+**Big dédicace to my brothers:**
++ ***Lotfi aniki* a.k.a BH madfack tu connais...**
++ ***KiKi* MA MAN**
++ ***UwU* Anisse Kun**  
++ **Ladies and gentlemen *housii ya3ni***  
++ **And of course we will not forget *shawz* my.. real.. G..**  
+ *the one who inspired this whole madness...*
+
+> 👉 <em>Make sure to check his legendary document</em> 👈
+
+
+<br>
+
+**And of Course SHOUTOUT to all the homies worldwide, especially:**
+
++ **Oujda**     
++ **Angers** 
++ **Batna** 
++ **Rabat** 
++ **Lille** 
++ **CASA ..** 
 
 
 </div>
 
 <br>
 
-> **Big dédicace to:**
-> 
-> 🎯 My brother **Lotfi aniki** a.k.a BH madfack tu connais...  
-> 💎 Frérot **KiKi**, do you love me  
-> 🔥 **Anisse aniki** brovski  
-> 👑 Ladies and gentlemen **housii ya3ni**  
-> ⚡ And of course we will not forget **shawz** my.. real.. G..  
-> *the one who inspired this whole madness...*
-
 <br>
 
-<p align="center">
-  👉 <em>Make sure to check his legendary document</em> 👈
-</p>
+<h3>ANYWHO...</h3>
 
-<br>
+<strong>I got a message to share .</strong>
 
-<div align="center">
 
-**SHOUTOUT to all the homies worldwide, especially:**
-
-<p align="center">
-    **· Oujda**     
-    **· Angers** 
-    **· Batna** 
-    **· Rabat** 
-    **· Lille** 
-    **· CASA ..** 
-</p>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">ANYWHO...</h3>
-
-<p align="center">
-  <strong>I got a message to share.</strong>
-</p>
-
-<p align="center">
   But before that message...<br>
   I want you to take a look at this <strong>TEE-SHIRT</strong> right here which is:
-</p>
 
 <br>
 
@@ -114,147 +113,97 @@ and for the haters that they don't like us... ***you already know***
   <br>
   <sub>of San Andreas</sub>
 </h3>
-<br>
 
-<div align="center">
 
 We're not doing games over here...  
 Ain't no so long...  
 **NAAAH...**
 
----
-
 This is **Fractol**... the real thing...
 
-</div>
+
 
 <br>
 
-<table align="center">
 <tr>
 <td>
 
-> *The gate to a psychedelic realm*  
-> *Infinite patterns*  
-> *Getting high by mathematics*  
-> *Zooming... until reaching nirvana*  
-> *Games? That's for later. Now we're hustling pixels...*  
-> *WE ARE here to grind...*  
->
-> **IRON MAN WILL DIE.**
+*The gate to a psychedelic realm*  
+*Infinite patterns*  
+*Zooming... until reaching nirvana*  
+*Games? That's for later. Now we're hustling pixels...*  
+*WE ARE here to grind...*  
 
+ **IRON MAN WILL DIE.**
+ 
 </td>
 </tr>
-</table>
+
 
 <br>
 
----
-
 <br>
 
-<h3 align="center">ANYWHO... Let's start</h3>
+<h3>ANYWHO... Let's start</h3>
 
 <p align="center">
-  <img src="img/moul_ndader_face.png" width="250"/>
+  <img src="img/moul_ndader_face.png" width="400"/>
 </p>
 
-<div align="center">
+<h4>
 
 *Shout out to anyone who's studying hard.*  
 *And we don't f\*\*k with the lazy people...*  
 *Study and keep studying*
 
-</div>
+</h4>
 
 <br>
 
 <p align="center">
-  <img src="img/moul_ndader_holding_pen.png" width="280"/>
+  <img src="img/moul_ndader_holding_pen.png" width="'400"/>
 </p>
 
-<h4 align="center">
-  ✒️ <strong>The pen</strong>... is the weapon... ✒️
-  <br><br>
+<h4 >
+  <strong>The pen 🖊️</strong>... 
+  <br>
+  <strong>Is the weopen ⚔️</strong>... 
+  <br>
+  <br>
   <em>Let us study and focus on ourselves...</em>
   <br>
   <em>Watching others won't get you sh*t</em>
 </h4>
 
-<br>
 
----
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ THE MATHEMATICS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📐 THE MATHEMATICS 📐</h2>
-
-<br>
-
-<h4 align="center">The Newton-Raphson iteration formula that you guys struggle with:</h4>
-
-<p align="center">
-  <img src="https://latex.codecogs.com/svg.image?\large&space;\bg{black}\color{cyan}z_{n&plus;1}=z_n-a\cdot\frac{p(z_n)}{p'(z_n)}" alt="Newton-Raphson Formula"/>
-</p>
-
-<p align="center">
-  where <code>a = 1</code> and <code>p(z) = z³ - 1</code>
-</p>
-
-<br>
-
-<p align="center">
-  
-</p>
-
-<p align="center">
-  <em>I got the solution...</em>
-  <img src="img/moul_ndader_solution.png" width="700"/>
-  <br><br>
-  I'm joking... here is the <strong>real</strong> solution:
-</p>
-
-<br>
-
-<p align="center">
-  <img src="img/code_newton_fractal.gif" width="700"/>
-</p>
-
-<br>
-
----
-
-<br>
-
-<h4 align="center">And the second formula of <strong>Mister Julia</strong> that you still sleeping on... here it is:</h4>
-
-<p align="center">
-  <img src="https://latex.codecogs.com/svg.image?\LARGE&space;\bg{black}\color{magenta}f_c(z)=z^2&plus;c" alt="Julia Formula"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="img/moul_ndader_zero.png" width="280"/>
-</p>
-
-<p align="center">
-  And it doesn't converge to 0 bonehead... no... doesn't stay close to 0
-  <br><br>
-  Instead <code>|z|</code> should <strong>not escape to infinity</strong> which means <code>|z| < 2</code>
+<h4>The Newton iteration formula 
   <br>
-  It must always remain <strong>bounded</strong> and not escape
-</p>
+  that you guys struggle with
+</h4>
 
 <br>
 
-<h4 align="center">And also draw the curve (Euler Curve)...</h4>
-<p align="center"><em>if you don't, I'll show you...</em></p>
-<p align="center"><strong>I'll show you who I am...</strong></p>
+<em><strong>I got the solution : </strong></em>
+
+<p align="center">
+   <img src="img/moul_ndader_solution.png" width="500"/>
+</p>
+
+<h4>For that you need to do
+  <br>
+  géomri.. 
+  <br>
+  géomri..
+  <br>
+  géomritrie ... fractale ...
+  <br> 
+  <strong>géométrie .. fractale</strong>
+  <br>
+</h4>
+
+<h4>And also draw the curve (Euler Curve)...</h4>
+<p><em>if you don't draw the curve.. I'll show you...</em></p>
+<p><strong>I'll show you who I am...</strong></p>
 
 <br>
 
@@ -264,15 +213,59 @@ This is **Fractol**... the real thing...
 
 <br>
 
----
+<p align="center">
+<br><br>
+  <h5>I'm joking... here is the <strong>real</strong> solution:</h5>
+</p>
+
+
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.image?\large&space;\bg{black}\color{cyan}z_{n&plus;1}=z_n-a\cdot\frac{p(z_n)}{p'(z_n)}" alt="Newton-Raphson Formula"/>
+</p>
+
+<p align="center">
+  where <code>a = 1</code> and <code>p(z) = z³ - 1</code>
+</p>
+<br>
+
+<p align="center">
+  And this is how it was <strong>CODED</strong>
+</p>
+
+<p align="center">
+  <img src="img/code_newton_fractal.gif" width="700"/>
+</p>
 
 <br>
 
-<div align="center">
+<h4>And the second formula of <strong>Mister Julia</strong></h4>
+<h4>that you still sleeping on...</h4>
+<h4>here it is:</h4>
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.image?\LARGE&space;\bg{black}\color{magenta}f_c(z)=z^2&plus;c" alt="Julia Formula"/>
+</p>
 
-*F\*\*k the world.*  
+<br>
+
+<p align="center">
+  <img src="img/moul_ndader_zero.png" width="500"/>
+</p>
+
+<p>
+  And it doesn't converge to 0 bonehead... no... doesn't stay close to 0
+  <br><br>
+  Instead <code>|z|</code> should <strong>not escape to infinity</strong> which means <code>|z| < 2</code>
+  <br>
+  It must always remain <strong>bounded</strong> and not escape
+</p>
+    
+<br>
+
+<div>
+
+*And F\*\*k the world.*  
 *F\*\*k money*  
-*And f\*\*k fame*
+*f\*\*k fame*
 
 Anyone challenging me  
 Bring the Guinness World Records book,  
@@ -302,19 +295,17 @@ I'm not afraid of nobody
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░ TRIP START ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">
-  <br>
-  🌈 ═══════════════════════════════ 🌈
-  <br><br>
-  T R I P &nbsp; S T A R T
-  <br><br>
-  🌈 ═══════════════════════════════ 🌈
-  <br>
-</h1>
+<br>
+
+### Trip Start
+
+<p align="center">
+  <img src="img/Trip_start_banner.gif" alt="Trip Start Banner" width="700"/>
+</p>
 
 <br>
 
-<p align="center">
+<p>
   But wait...
   <br><br>
   Have you ever wondered what a <strong>trip</strong> looks like?
@@ -322,20 +313,20 @@ I'm not afraid of nobody
 
 <br>
 
-<div align="center">
+<div>
 
 That psychedelic realm where:
 
-🫁 **Shapes breathe**  
-🎵 **Colors have a sound**  
-❌ **Familiar rules no longer apply**  
-🧠 **You forget who you are... and remember everything**
+**Shapes breathe**  
+**Colors have a sound**  
+**Familiar rules no longer apply**  
+**You forget who you are... and remember everything**
 
 </div>
 
 <br>
 
-<p align="center">
+<p>
   That place where you're not <em>alive</em> anymore...
   <br>
   but not <em>dead</em> either.
@@ -343,7 +334,7 @@ That psychedelic realm where:
 
 <br>
 
-<p align="center">
+<p>
   If you've ever been curious...
   <br><br>
   <strong>You came to the right place.</strong>
@@ -365,17 +356,15 @@ That psychedelic realm where:
 
 <br>
 
----
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ 1. MANDELBROT SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2>🟢 1. MANDELBROT SET</h2>
+## <img src="img/mandelbrot_logo.png" width="30"/> 1. MANDELBROT SET
 
-<h3><em>🍃 Amnesia — the weed effect 🍃</em></h3>
+> <h5><em>🍃 Amnesia — the weed effect 🍃</em></h5>
 
 <br>
 
@@ -391,10 +380,10 @@ This... is **Mandelbrot**.
 
 Have you ever wondered what it feels like to smoke **Amnesia**?
 
-> That chill sensation.  
-> Your thoughts slow down.  
-> You care less about anything.  
-> Everything becomes... peaceful.
+That chill sensation.  
+Your thoughts slow down.  
+You care less about anything.  
+Everything becomes... peaceful.
 
 You zoom.  
 You forget.  
@@ -433,17 +422,15 @@ and infinity feels... familiar
 
 <br>
 
----
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ 2. JULIA SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2>💜 2. JULIA SET</h2>
+## <img src="img/mister_julia_logo.png" width="30"/> 2. JULIA SET
 
-<h3><em>💊 Mister Julia — MDMA / Ecstasy 💊</em></h3>
+> <h5><em>💊 MDMA / Ecstasy 💊</em></h5>
 
 <br>
 
@@ -463,9 +450,9 @@ This one reacts to your parameters.
 Every small change reshapes reality.  
 Like emotions amplified.
 
-> Warmth.  
-> Connection.  
-> Euphoria.
+Warmth.  
+Connection.  
+Euphoria.
 
 Like feeling everything at once.  
 A lot of colors that bond together.
@@ -506,17 +493,15 @@ you **feel** it.
 
 <br>
 
----
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ 3. NEWTON SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2>🔴 3. NEWTON SET</h2>
+## <img src="img/newton_logo.png" width="40"/> 3. NEWTON SET
 
-<h3><em>👅 LSD — Acid Trip ☣️</em></h3>
+> <h5><em>👅 LSD — Acid Trip ☣️</em></h5>
 
 <br>
 
@@ -540,8 +525,8 @@ and reality breaks into **WOOOAAA**.. Colors explode
 
 There's no difference anymore between what's real... and what's not
 
-> You **don't look at it**.  
-> You **fall into it**.
+You **don't look at it**.  
+You **fall into it**.
 
 You don't control it.  
 You don't fight it.  
@@ -579,7 +564,6 @@ Pure math hallucinating in real time.
 
 <br>
 
----
 
 <br>
 
@@ -587,9 +571,9 @@ Pure math hallucinating in real time.
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ 4. FLOWER SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2>🌸 4. FLOWER SET</h2>
+## <img src="img/mushroom_logo.png" width="40"/> 4. FLOWER SET
 
-<h3><em>🍄 Mushrooms — Hearing colors 🍄</em></h3>
+> <h5><em>🍄 Mushrooms — Hearing colors 🍄</em></h5>
 
 <br>
 
@@ -605,11 +589,11 @@ The final stage... The **Flower**.
 
 This one breathes.
 
-> Colors don't just move —  
-> they **sing**.
->
-> Colors don't just appear —  
-> they **sound**.
+Colors don't just move —  
+they **sing**.
+
+Colors don't just appear —  
+they **sound**.
 
 You hear shapes.  
 You see sound.
@@ -648,71 +632,13 @@ And starts being life.
 
 <br>
 
----
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ CONTROLS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⌨️ CONTROLS ⌨️</h2>
-
-<br>
-
-<div align="center">
-
-| Key | Action |
-|:---:|:---|
-| 🖱️ **Mouse wheel** | Zoom in/out |
-| ⬅️➡️⬆️⬇️ **Arrow keys** | Pan view |
-| `Space` | Julia mouse follow |
-| `+` / `-` | Cycle color palettes |
-| `R` | Reset view |
-| `ESC` | Exit |
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░ COLOR PALETTES ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🌈 COLOR PALETTES 🌈</h2>
-
-<br>
-
-<div align="center">
-
-| # | Name | Vibe |
-|:---:|:---|:---|
-| 0 | **Neon Pink** | 💗 Hot, electric |
-| 1 | **Electric Blue** | 💙 Cool, oceanic |
-| 2 | **Acid Green** | 💚 Matrix, toxic |
-| 3 | **Solar Flare** | 🧡 Warm, fiery |
-| 4 | **Deep Purple** | 💜 Royal, cosmic |
-| 5 | **Cosmic** | 🌌 Space, nebula |
-| 6 | **Plasma Storm** | ⚡ Energy, lightning |
-| 7 | **Psychedelic** | 🌈 Full rainbow chaos |
-
-</div>
-
-<br>
-
----
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ INSTALLATION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🔧 INSTALLATION 🔧</h2>
+<h2 >INSTALLATION </h2>
 
 <br>
 
@@ -735,58 +661,25 @@ make
 
 <br>
 
----
+<br>
+
+
+<h2>📚 TECHNICAL DOCUMENTATION 📚</h2>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░ TECHNICAL DOCUMENTATION ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📚 TECHNICAL DOCUMENTATION 📚</h2>
-
-<br>
-
-<p align="center">
-  For the nerds who want to understand the math behind the madness:
+<p>
+  For the nerds who want to understand the math behind:
   <br><br>
-  <a href="TECHNICAL.md"><strong>📐 Read the Technical Documentation →</strong></a>
+  <a href="TECHNICAL.md"><strong>Read the Technical Documentation →</strong></a>
 </p>
 
 <br>
 
-<details>
-<summary><h4>📖 What's inside?</h4></summary>
-
-<br>
-
-- **🔍 The Zooming Mechanism** — How infinite zoom actually works
-- **🎨 Color Rendering System** — The psychedelic color algorithm
-- **🏗️ Project Architecture** — High-level code overview
-- **🔢 Fractal Algorithms** — The math behind each fractal
-
-</details>
-
-<br>
-
 ---
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<br>
-
-<h2 align="center">
-  🌀 ═══════════════════════════════ 🌀
-</h2>
-
-<br>
-
 <p align="center">
-  <img src="img/Fractol_Banner.gif" alt="Fractol Banner" width="600"/>
+  <img src="img/Fractol_Banner.gif" alt="Fractol Banner" width="500"/>
 </p>
 
 <br>
@@ -798,15 +691,8 @@ make
 <br>
 
 <p align="center">
-  <strong>Made with 🧠 mathematics and ✨ madness</strong>
+  <strong>Made with madness 🌀 && Moul Ndader </strong>
   <br><br>
-  <sub>A 42 School Project by <a href="https://github.com/yourusername">zotaj-di</a></sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Iron_Man-Will_Die-000000?style=for-the-badge&labelColor=ff0000" alt="Iron Man Will Die"/>
 </p>
 
 <br>
@@ -815,7 +701,7 @@ make
 
 <p align="center">
   <sub>
-    ⚠️ <em>Disclaimer: This README is themed around psychedelic experiences for creative/artistic purposes only. 
+    ⚠️ <em> This README is themed around psychedelic experiences for creative/artistic purposes only. 
     <br>The author does not endorse or encourage the use of illegal substances.</em> ⚠️
   </sub>
 </p>
