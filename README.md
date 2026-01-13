@@ -29,7 +29,7 @@
 ##  Table of Contents
 
 - [Moul ndader speech](#Alright,)
-  - [Moul Ndader Intro & Shoutout](#Big-dédicace-to)
+  - [Moul Ndader Intro & Shoutout](#Big)
   - [Moul Ndader Message](#I-got-a-message-to-share.)
   - [Moul Ndader Studying hard](#ANYWHO...-Let's-start)
   - [Moul Ndader Solution](#I-got-the-solution-:)
@@ -73,7 +73,7 @@ and for the haters that they don't like us... ***you already know***
 + **And of course we will not forget *shawz* my.. real.. G..**  
  *the one who inspired this whole madness...*
 
-> 👉 <em>Make sure to check his legendary document</em> 👈
+> [👉 *Make sure to check his legendary document* 👈](https://github.com/baderelg/Fractol)
 
 
 <br>
