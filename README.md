@@ -161,7 +161,7 @@ This is **Fractol**... the real thing...
 <br>
 
 <p align="center">
-  <img src="img/moul_ndader_holding_pen.png" width="'400"/>
+  <img src="img/moul_ndader_holding_pen.png" width="400"/>
 </p>
 
 <h4 >
@@ -285,11 +285,9 @@ I'm not afraid of nobody
 
 </div>
 
-<br>
+<br> 
 
 ---
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░ TRIP START ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -297,11 +295,10 @@ I'm not afraid of nobody
 
 <br>
 
-
 ## <img src="img/mister_julia_logo_2.png" width="40"/> TRIP START
 
 <p align="center">
-  <img src="img/Trip_start_banner.gif" alt="Trip Start Banner" width="700"/>
+  <img src="img/Trip_start_banner.gif" alt="Trip Start Banner" width="500"/>
 </p>
 
 <br>
@@ -429,7 +426,7 @@ and infinity feels... familiar
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ 2. JULIA SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="img/mister_julia_logo.png" width="40"/> 2. JULIA SET
+## <img src="img/mister_julia_logo.png" width="40"/> JULIA SET
 
 > <h5><em>💊 MDMA / Ecstasy 💊</em></h5>
 
@@ -522,7 +519,7 @@ This one is quite dangerous... but it's my favorite.
 
 It looks mathematical at first —  
 but one step too far...  
-and reality breaks into **WOOOAAA**.. Colors explode
+and reality breaks into *WOOOAAA* 🤤 .. Colors explode
 
 There's no difference anymore between what's real... and what's not
 
@@ -572,7 +569,7 @@ Pure math hallucinating in real time.
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ 4. FLOWER SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="img/mushroom_logo.png" width="40"/> 4. FLOWER SET
+## <img src="img/mushroom_logo.png" width="50"/> FLOWER SET
 
 > <h5><em>🍄 Mushrooms — Hearing colors 🍄</em></h5>
 
