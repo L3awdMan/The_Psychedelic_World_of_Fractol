@@ -28,7 +28,7 @@
 
 ##  Table of Contents
 
-- [Moul ndader speech](#Alright,)
+- [Moul ndader speech](#Alright)
   - [Moul Ndader Intro & Shoutout](#Big)
   - [Moul Ndader Message](#I-got-a-message-to-share.)
   - [Moul Ndader Studying hard](#ANYWHO...-Let's-start)
@@ -37,7 +37,6 @@
   - [Moul Ndader Solve Mister Julia Formula](#the-second-formula-of-Mister-Julia)
   - [Moul Ndader Challenge EVERYBODY](#And-F**k-the-world) 
 - [The Psychedelic Trip Start](#trip-start)
-  - [Intro to my psychedelic realm](#But-wait... )
   - [1. Mandelbrot Set](#-mandelbrot-set)
   - [2. Julia Set](#-julia-set)
   - [3. Newton Set](#-newton-set)
@@ -147,7 +146,7 @@ This is **Fractol**... the real thing...
 <h3>ANYWHO... Let's start</h3>
 
 <p align="center">
-  <img src="img/moul_ndader_face.png" width="400"/>
+  <img src="img/moul_ndader_face.png" width="300"/>
 </p>
 
 <h4>
@@ -636,7 +635,7 @@ And starts being life.
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ INSTALLATION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2 >INSTALLATION </h2>
+<h2> INSTALLATION </h2>
 
 <br>
 
@@ -662,7 +661,7 @@ make
 <br>
 
 
-<h2>📚 TECHNICAL DOCUMENTATION 📚</h2>
+<h2> TECHNICAL DOCUMENTATION </h2>
 
 <br>
 
