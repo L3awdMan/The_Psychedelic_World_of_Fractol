@@ -38,10 +38,10 @@
   - [Moul Ndader Challenge EVERYBODY](#And-F**k-the-world) 
 - [The Psychedelic Trip Start](#trip-start)
   - [Intro to my psychedelic realm](#But-wait... )
-  - [1. Mandelbrot Set](#-1-mandelbrot-set)
-  - [2. Julia Set](#-2-julia-set)
-  - [3. Newton Set](#-3-newton-set)
-  - [4. Flower Set](#-4-flower-set)
+  - [1. Mandelbrot Set](#-mandelbrot-set)
+  - [2. Julia Set](#-julia-set)
+  - [3. Newton Set](#-newton-set)
+  - [4. Flower Set](#-flower-set)
 - [Installation](#-installation)
 - [Technical Documentation](#-technical-documentation)
 
@@ -297,7 +297,8 @@ I'm not afraid of nobody
 
 <br>
 
-### Trip Start
+
+## <img src="img/mister_julia_logo_2.png" width="40"/> TRIP START
 
 <p align="center">
   <img src="img/Trip_start_banner.gif" alt="Trip Start Banner" width="700"/>
@@ -362,7 +363,7 @@ That psychedelic realm where:
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ 1. MANDELBROT SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="img/mandelbrot_logo.png" width="30"/> 1. MANDELBROT SET
+## <img src="img/mandelbrot_logo.png" width="40"/> MANDELBROT SET
 
 > <h5><em>🍃 Amnesia — the weed effect 🍃</em></h5>
 
@@ -428,7 +429,7 @@ and infinity feels... familiar
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ 2. JULIA SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="img/mister_julia_logo.png" width="30"/> 2. JULIA SET
+## <img src="img/mister_julia_logo.png" width="40"/> 2. JULIA SET
 
 > <h5><em>💊 MDMA / Ecstasy 💊</em></h5>
 
@@ -499,7 +500,7 @@ you **feel** it.
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ 3. NEWTON SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="img/newton_logo.png" width="40"/> 3. NEWTON SET
+## <img src="img/newton_logo.png" width="40"/> NEWTON SET
 
 > <h5><em>👅 LSD — Acid Trip ☣️</em></h5>
 
