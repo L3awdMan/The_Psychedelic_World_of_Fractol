@@ -29,7 +29,7 @@
 ##  Table of Contents
 
 - [Moul ndader speech](#Alright)
-  - [Moul Ndader Intro & Shoutout](#Big)
+  - [Moul Ndader Intro & Shoutout](#Alright)
   - [Moul Ndader Message](#I-got-a-message-to-share)
   - [Moul Ndader Studying hard](#Let's-start)
   - [Moul Ndader Solution](#I-got-the-solution-)
@@ -37,7 +37,7 @@
   - [Moul Ndader Solve Mister Julia Formula](#the-second-formula-of-Mister-Julia)
   - [Moul Ndader Challenge EVERYBODY](#the-world) 
 - [The Psychedelic Trip Start](#trip-start)
-  - [Intro to my psychedelic realm](#But-wait)
+  - [Intro to my psychedelic realm](#trip-start)
   - [1. Mandelbrot Set](#-mandelbrot-set)
   - [2. Julia Set](#-julia-set)
   - [3. Newton Set](#-newton-set)
@@ -423,7 +423,7 @@ and infinity feels... familiar
 
 <p align="center">
 
-[Video: mandelbrot-trip.mp4]
+[Video: Mandelbrot Trip](https://youtu.be/ENhNzWIhICs)
 
 *Zoom infinitely into the calm, hypnotic patterns...*
 
@@ -494,9 +494,9 @@ you **feel** it.
 
 <p align="center">
 
-[Video: julia-trip.mp4]
+[Video: julia trip](https://youtu.be/WUBJKsk-d94)
 
-*Feel the warmth, the connection, the euphoria...*
+[*Feel the warmth, the connection, the euphoria...*](https://youtu.be/WUBJKsk-d94)
 
 </p>
 
@@ -565,9 +565,9 @@ Pure math hallucinating in real time.
 
 <p align="center">
 
-[Video: newton-trip.mp4]
+[Video: Newton Trip](https://youtu.be/BB-6Dr_X3Ig)
 
-*Fall into the mathematical void... surrender...*
+[*Fall into the mathematical void... surrender...*](https://youtu.be/BB-6Dr_X3Ig)
 
 </p>
 
@@ -633,9 +633,9 @@ And starts being life.
 
 <p align="center">
 
-[Video: flower-trip.mp4]
+[Video: Flower Trip](https://youtu.be/oKk68NgLGO0)
 
-*Where math becomes spiritual... where geometry breathes...*
+[*Where math becomes spiritual... where geometry breathes...*](https://youtu.be/oKk68NgLGO0)
 
 </p>
 
