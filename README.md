@@ -28,15 +28,16 @@
 
 ##  Table of Contents
 
-- [Moul ndader speech](#the-speech)
-  - [Moul Ndader Intro & Shoutout](#the-speech)
-  - [Moul Ndader Message](#the-speech)
-  - [Moul Ndader Studying hard](#the-speech)
-  - [Moul Ndader Solution](#the-speech)
-  - [Moul Ndader Solve Newton Formula](#the-speech) 
-  - [Moul Ndader Solve Mister Julia Formula](#the-speech)
-  - [Moul Ndader Challenge EVERYBODY](#the-speech) 
-- [The Psychedelic Trip Start](#trip-start)
+- [Moul ndader speech](#Alright, SALAM O ALAYKUM brothers...)
+  - [Moul Ndader Intro & Shoutout](#Big dédicace to)
+  - [Moul Ndader Message](#I got a message to share.)
+  - [Moul Ndader Studying hard](#ANYWHO... Let's start)
+  - [Moul Ndader Solution](#I got the solution : )
+  - [Moul Ndader Solve Newton Formula](#I'm joking... here is the real solution:) 
+  - [Moul Ndader Solve Mister Julia Formula](#the second formula of Mister Julia)
+  - [Moul Ndader Challenge EVERYBODY](#And F**k the world) 
+- [The Psychedelic Trip Start](#trip start)
+  - [Intro to my psychedelic realm](#But wait... )
   - [1. Mandelbrot Set](#-1-mandelbrot-set)
   - [2. Julia Set](#-2-julia-set)
   - [3. Newton Set](#-3-newton-set)
@@ -64,23 +65,20 @@ and for the haters that they don't like us... ***you already know***
 
 
 
-**Big dédicace to:**
-+ **My brother *Lotfi aniki* a.k.a BH madfack tu connais...**
-+ **Frérot **KiKi**, do you love me ?**  
-+ ***Anisse Kawaii* brovski**  
+**Big dédicace to my brothers:**
++ ***Lotfi aniki* a.k.a BH madfack tu connais...**
++ ***KiKi* MA MAN**
++ ***UwU* Anisse Kun**  
 + **Ladies and gentlemen *housii ya3ni***  
 + **And of course we will not forget *shawz* my.. real.. G..**  
  *the one who inspired this whole madness...*
 
-<br>
+> 👉 <em>Make sure to check his legendary document</em> 👈
 
-<p>
-  👉 <em>Make sure to check his legendary document</em> 👈
-</p>
 
 <br>
 
-**SHOUTOUT to all the homies worldwide, especially:**
+**And of Course SHOUTOUT to all the homies worldwide, especially:**
 
 + **Oujda**     
 + **Angers** 
@@ -98,7 +96,7 @@ and for the haters that they don't like us... ***you already know***
 
 <h3>ANYWHO...</h3>
 
-<strong>I got a message to share.</strong>
+<strong>I got a message to share .</strong>
 
 
   But before that message...<br>
@@ -241,8 +239,6 @@ This is **Fractol**... the real thing...
 
 <br>
 
-<br>
-
 <h4>And the second formula of <strong>Mister Julia</strong></h4>
 <h4>that you still sleeping on...</h4>
 <h4>here it is:</h4>
@@ -253,7 +249,7 @@ This is **Fractol**... the real thing...
 <br>
 
 <p align="center">
-  <img src="img/moul_ndader_zero.png" width="280"/>
+  <img src="img/moul_ndader_zero.png" width="500"/>
 </p>
 
 <p>
@@ -713,7 +709,7 @@ make
 
 <p align="center">
   <sub>
-    ⚠️ <em>Disclaimer: This README is themed around psychedelic experiences for creative/artistic purposes only. 
+    ⚠️ <em> This README is themed around psychedelic experiences for creative/artistic purposes only. 
     <br>The author does not endorse or encourage the use of illegal substances.</em> ⚠️
   </sub>
 </p>
