@@ -1,3 +1,9 @@
+> [!NOTE]
+> This README is inspired by a legend called **Moul Ndader**. If you don't know him or don't understand what's going on here... it is what it is.
+
+> [!CAUTION]
+> **Disclaimer:** This README is themed around psychedelic experiences for creative/artistic purposes only. The author does not endorse or encourage the use of illegal substances. ⚠️
+
 <p align="center">
   <img src="img/Fractol_Banner.gif" alt="Fractol Banner" width="500"/>
 </p>
@@ -21,21 +27,18 @@
 </p>
 
 ---
-<p align="center">
-  
-  <table>
-  <tr>
-  <td width="10%">
-    <img src="img/lost_contact_with_life.gif" alt="lost_contact_with_life" width="100"/>
-  </td>
-  <td width="70%">
-    <h3 align="center">
-      <em>「Where You Will Lose Contact With Life」</em>
-    </h3>
-  </td>
-  </tr>
-  </table>
-</p>
+
+##  Table of Contents
+
+- [The Speech](#the-speech)
+- [The Mathematics](#the-mathematics)
+- [Trip Start](#trip-start)
+- [1. Mandelbrot Set](#-1-mandelbrot-set)
+- [2. Julia Set](#-2-julia-set)
+- [3. Newton Set](#-3-newton-set)
+- [4. Flower Set](#-4-flower-set)
+- [Installation](#-installation)
+- [Technical Documentation](#-technical-documentation)
 
 ---
 
@@ -108,12 +111,11 @@ and for the haters that they don't like us... ***you already know***
   <img src="img/moul_ndader_not_a_game.png" width="500"/>
 </p>
 
-<h3>
+<h3 align="center">
   「 IT'S NOT A GAME 」
   <br>
   <sub>of San Andreas</sub>
 </h3>
-<br>
 
 
 We're not doing games over here...  
@@ -147,19 +149,19 @@ This is **Fractol**... the real thing...
 
 <br>
 
-<h3 align="center">ANYWHO... Let's start</h3>
+<h3>ANYWHO... Let's start</h3>
 
 <p align="center">
   <img src="img/moul_ndader_face.png" width="250"/>
 </p>
 
-<div align="center">
+<h4>
 
 *Shout out to anyone who's studying hard.*  
 *And we don't f\*\*k with the lazy people...*  
 *Study and keep studying*
 
-</div>
+</h4>
 
 <br>
 
@@ -167,8 +169,8 @@ This is **Fractol**... the real thing...
   <img src="img/moul_ndader_holding_pen.png" width="280"/>
 </p>
 
-<h4 align="center">
-  ✒️ <strong>The pen</strong>... is the weapon... ✒️
+<h4 >
+  <strong>The pen</strong>... 
   <br><br>
   <em>Let us study and focus on ourselves...</em>
   <br>
@@ -176,7 +178,50 @@ This is **Fractol**... the real thing...
 </h4>
 
 
-<h4 align="center">The Newton-Raphson iteration formula that you guys struggle with:</h4>
+<h4>The Newton iteration formula 
+  <br>
+  that you guys struggle with
+</h4>
+
+
+<br>
+
+<em>I got the solution : </em>
+
+<p align="center">
+   <img src="img/moul_ndader_solution.png" width="500"/>
+</p>
+
+<h4>For that you need to do
+  <br>
+  géomri.. 
+  <br>
+  géomri..
+  <br>
+  géomritrie ... fractale ...
+  <br> 
+  <strong>géométrie .. fractale</strong>
+  <br>
+</h4>
+<br>
+
+<h4>And also draw the curve (Euler Curve)...</h4>
+<p><em>if you don't draw the curve.. I'll show you...</em></p>
+<p><strong>I'll show you who I am...</strong></p>
+
+<br>
+
+<p align="center">
+  <img src="img/Euler_Curve.png" width="500"/>
+</p>
+
+<br>
+
+<p align="center">
+<br><br>
+  I'm joking... here is the <strong>real</strong> solution:
+</p>
+
 
 <p align="center">
   <img src="https://latex.codecogs.com/svg.image?\large&space;\bg{black}\color{cyan}z_{n&plus;1}=z_n-a\cdot\frac{p(z_n)}{p'(z_n)}" alt="Newton-Raphson Formula"/>
@@ -185,23 +230,12 @@ This is **Fractol**... the real thing...
 <p align="center">
   where <code>a = 1</code> and <code>p(z) = z³ - 1</code>
 </p>
-
 <br>
 
 <p align="center">
-  
+<br><br>
+  And this is how it was <strong>CODED</strong>
 </p>
-
-<p align="center">
-  <em>I got the solution...</em>
-  <p align="center">
-   <img src="img/moul_ndader_solution.png" width="500"/>
-  </p>
-  <br><br>
-  I'm joking... here is the <strong>real</strong> solution:
-</p>
-
-<br>
 
 <p align="center">
   <img src="img/code_newton_fractal.gif" width="700"/>
@@ -213,8 +247,9 @@ This is **Fractol**... the real thing...
 
 <br>
 
-<h4 align="center">And the second formula of <strong>Mister Julia</strong> that you still sleeping on... here it is:</h4>
-
+<h4>And the second formula of <strong>Mister Julia</strong></h4>
+<h4>that you still sleeping on...</h4>
+<h4>here it is:</h4>
 <p align="center">
   <img src="https://latex.codecogs.com/svg.image?\LARGE&space;\bg{black}\color{magenta}f_c(z)=z^2&plus;c" alt="Julia Formula"/>
 </p>
@@ -225,7 +260,7 @@ This is **Fractol**... the real thing...
   <img src="img/moul_ndader_zero.png" width="280"/>
 </p>
 
-<p align="center">
+<p>
   And it doesn't converge to 0 bonehead... no... doesn't stay close to 0
   <br><br>
   Instead <code>|z|</code> should <strong>not escape to infinity</strong> which means <code>|z| < 2</code>
@@ -233,29 +268,15 @@ This is **Fractol**... the real thing...
   It must always remain <strong>bounded</strong> and not escape
 </p>
 
-<br>
-
-<h4 align="center">And also draw the curve (Euler Curve)...</h4>
-<p align="center"><em>if you don't, I'll show you...</em></p>
-<p align="center"><strong>I'll show you who I am...</strong></p>
-
-<br>
-
-<p align="center">
-  <img src="img/Euler_Curve.png" width="500"/>
-</p>
-
-<br>
-
 ---
 
 <br>
 
-<div align="center">
+<div>
 
-*F\*\*k the world.*  
+*And F\*\*k the world.*  
 *F\*\*k money*  
-*And f\*\*k fame*
+*f\*\*k fame*
 
 Anyone challenging me  
 Bring the Guinness World Records book,  
@@ -285,19 +306,17 @@ I'm not afraid of nobody
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░ TRIP START ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">
-  <br>
-  🌈 ═══════════════════════════════ 🌈
-  <br><br>
-  T R I P &nbsp; S T A R T
-  <br><br>
-  🌈 ═══════════════════════════════ 🌈
-  <br>
-</h1>
+<br>
+
+## Trip Start
+
+<p align="center">
+  <img src="img/Trip_start_banner.gif" alt="Trip Start Banner" width="700"/>
+</p>
 
 <br>
 
-<p align="center">
+<p>
   But wait...
   <br><br>
   Have you ever wondered what a <strong>trip</strong> looks like?
@@ -305,20 +324,20 @@ I'm not afraid of nobody
 
 <br>
 
-<div align="center">
+<div>
 
 That psychedelic realm where:
 
-🫁 **Shapes breathe**  
-🎵 **Colors have a sound**  
-❌ **Familiar rules no longer apply**  
-🧠 **You forget who you are... and remember everything**
+**Shapes breathe**  
+**Colors have a sound**  
+**Familiar rules no longer apply**  
+**You forget who you are... and remember everything**
 
 </div>
 
 <br>
 
-<p align="center">
+<p>
   That place where you're not <em>alive</em> anymore...
   <br>
   but not <em>dead</em> either.
@@ -326,7 +345,7 @@ That psychedelic realm where:
 
 <br>
 
-<p align="center">
+<p>
   If you've ever been curious...
   <br><br>
   <strong>You came to the right place.</strong>
@@ -356,9 +375,9 @@ That psychedelic realm where:
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░ 1. MANDELBROT SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2>🟢 1. MANDELBROT SET</h2>
+## <img src="img/mandelbrot_logo.png" width="30"/> 1. MANDELBROT SET
 
-<h3><em>🍃 Amnesia — the weed effect 🍃</em></h3>
+> <h5><em>🍃 Amnesia — the weed effect 🍃</em></h5>
 
 <br>
 
@@ -374,10 +393,10 @@ This... is **Mandelbrot**.
 
 Have you ever wondered what it feels like to smoke **Amnesia**?
 
-> That chill sensation.  
-> Your thoughts slow down.  
-> You care less about anything.  
-> Everything becomes... peaceful.
+That chill sensation.  
+Your thoughts slow down.  
+You care less about anything.  
+Everything becomes... peaceful.
 
 You zoom.  
 You forget.  
@@ -424,9 +443,9 @@ and infinity feels... familiar
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ 2. JULIA SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2>💜 2. JULIA SET</h2>
+## <img src="img/mister_julia_logo.png" width="30"/> 2. JULIA SET
 
-<h3><em>💊 Mister Julia — MDMA / Ecstasy 💊</em></h3>
+> <h5><em>💊 MDMA / Ecstasy 💊</em></h5>
 
 <br>
 
@@ -446,9 +465,9 @@ This one reacts to your parameters.
 Every small change reshapes reality.  
 Like emotions amplified.
 
-> Warmth.  
-> Connection.  
-> Euphoria.
+Warmth.  
+Connection.  
+Euphoria.
 
 Like feeling everything at once.  
 A lot of colors that bond together.
@@ -497,9 +516,9 @@ you **feel** it.
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ 3. NEWTON SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2>🔴 3. NEWTON SET</h2>
+## <img src="img/newton_logo.png" width="40"/> 3. NEWTON SET
 
-<h3><em>👅 LSD — Acid Trip ☣️</em></h3>
+> <h5><em>👅 LSD — Acid Trip ☣️</em></h5>
 
 <br>
 
@@ -523,8 +542,8 @@ and reality breaks into **WOOOAAA**.. Colors explode
 
 There's no difference anymore between what's real... and what's not
 
-> You **don't look at it**.  
-> You **fall into it**.
+You **don't look at it**.  
+You **fall into it**.
 
 You don't control it.  
 You don't fight it.  
@@ -570,9 +589,9 @@ Pure math hallucinating in real time.
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ 4. FLOWER SET ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2>🌸 4. FLOWER SET</h2>
+## <img src="img/mushroom_logo.png" width="40"/> 4. FLOWER SET
 
-<h3><em>🍄 Mushrooms — Hearing colors 🍄</em></h3>
+> <h5><em>🍄 Mushrooms — Hearing colors 🍄</em></h5>
 
 <br>
 
@@ -588,11 +607,11 @@ The final stage... The **Flower**.
 
 This one breathes.
 
-> Colors don't just move —  
-> they **sing**.
->
-> Colors don't just appear —  
-> they **sound**.
+Colors don't just move —  
+they **sing**.
+
+Colors don't just appear —  
+they **sound**.
 
 You hear shapes.  
 You see sound.
@@ -643,7 +662,7 @@ And starts being life.
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ INSTALLATION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🔧 INSTALLATION 🔧</h2>
+<h2 >INSTALLATION </h2>
 
 <br>
 
@@ -671,29 +690,21 @@ make
 <br>
 
 
-<h2 align="center">📚 TECHNICAL DOCUMENTATION 📚</h2>
+<h2>📚 TECHNICAL DOCUMENTATION 📚</h2>
 
 <br>
 
-<p align="center">
-  For the nerds who want to understand the math behind the madness:
+<p>
+  For the nerds who want to understand the math behind:
   <br><br>
-  <a href="TECHNICAL.md"><strong>📐 Read the Technical Documentation →</strong></a>
+  <a href="TECHNICAL.md"><strong>Read the Technical Documentation →</strong></a>
 </p>
 
 <br>
 
-<details>
-<summary><h4>📖 What's inside?</h4></summary>
-
-<br>
-
-- **🔍 The Zooming Mechanism** — How infinite zoom actually works
-- **🎨 Color Rendering System** — The psychedelic color algorithm
-- **🏗️ Project Architecture** — High-level code overview
-- **🔢 Fractal Algorithms** — The math behind each fractal
-
-</details>
+<h2 align="center">
+  🌀 ═══════════════════════════════ 🌀
+</h2>
 
 <br>
 
@@ -708,7 +719,7 @@ make
 <br>
 
 <p align="center">
-  <img src="img/Fractol_Banner.gif" alt="Fractol Banner" width="600"/>
+  <img src="img/Fractol_Banner.gif" alt="Fractol Banner" width="500"/>
 </p>
 
 <br>
@@ -720,12 +731,9 @@ make
 <br>
 
 <p align="center">
-  <strong>Made with 🧠 mathematics and ✨ madness</strong>
+  <strong>Made with madness 🌀 && Moul Ndader </strong>
   <br><br>
-  <sub>A 42 School Project by <a href="https://github.com/yourusername">zotaj-di</a></sub>
 </p>
-
-<br>
 
 <br>
 
