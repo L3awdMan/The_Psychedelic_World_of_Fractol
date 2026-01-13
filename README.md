@@ -28,16 +28,16 @@
 
 ##  Table of Contents
 
-- [Moul ndader speech](#Alright, SALAM O ALAYKUM brothers...)
-  - [Moul Ndader Intro & Shoutout](#Big dédicace to)
-  - [Moul Ndader Message](#I got a message to share.)
-  - [Moul Ndader Studying hard](#ANYWHO... Let's start)
-  - [Moul Ndader Solution](#I got the solution : )
-  - [Moul Ndader Solve Newton Formula](#I'm joking... here is the real solution:) 
-  - [Moul Ndader Solve Mister Julia Formula](#the second formula of Mister Julia)
-  - [Moul Ndader Challenge EVERYBODY](#And F**k the world) 
-- [The Psychedelic Trip Start](#trip start)
-  - [Intro to my psychedelic realm](#But wait... )
+- [Moul ndader speech](#Alright,)
+  - [Moul Ndader Intro & Shoutout](#Big-dédicace-to)
+  - [Moul Ndader Message](#I-got-a-message-to-share.)
+  - [Moul Ndader Studying hard](#ANYWHO...-Let's-start)
+  - [Moul Ndader Solution](#I-got-the-solution-:)
+  - [Moul Ndader Solve Newton Formula](#I'm-joking...-here-is-the-real-solution:) 
+  - [Moul Ndader Solve Mister Julia Formula](#the-second-formula-of-Mister-Julia)
+  - [Moul Ndader Challenge EVERYBODY](#And-F**k-the-world) 
+- [The Psychedelic Trip Start](#trip-start)
+  - [Intro to my psychedelic realm](#But-wait... )
   - [1. Mandelbrot Set](#-1-mandelbrot-set)
   - [2. Julia Set](#-2-julia-set)
   - [3. Newton Set](#-3-newton-set)
@@ -229,7 +229,6 @@ This is **Fractol**... the real thing...
 <br>
 
 <p align="center">
-<br><br>
   And this is how it was <strong>CODED</strong>
 </p>
 
@@ -677,14 +676,7 @@ make
 
 <br>
 
-<h2 align="center">
-  🌀 ═══════════════════════════════ 🌀
-</h2>
-
-<br>
-
-
-<br>
+---
 
 <p align="center">
   <img src="img/Fractol_Banner.gif" alt="Fractol Banner" width="500"/>
