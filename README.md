@@ -30,13 +30,14 @@
 
 - [Moul ndader speech](#Alright)
   - [Moul Ndader Intro & Shoutout](#Big)
-  - [Moul Ndader Message](#I-got-a-message-to-share.)
-  - [Moul Ndader Studying hard](#ANYWHO...-Let's-start)
-  - [Moul Ndader Solution](#I-got-the-solution-:)
-  - [Moul Ndader Solve Newton Formula](#I'm-joking...-here-is-the-real-solution:) 
+  - [Moul Ndader Message](#I-got-a-message-to-share)
+  - [Moul Ndader Studying hard](#Let's-start)
+  - [Moul Ndader Solution](#I-got-the-solution-)
+  - [Moul Ndader Solve Newton Formula](#here-is-the-real-solution) 
   - [Moul Ndader Solve Mister Julia Formula](#the-second-formula-of-Mister-Julia)
-  - [Moul Ndader Challenge EVERYBODY](#And-F**k-the-world) 
+  - [Moul Ndader Challenge EVERYBODY](#the-world) 
 - [The Psychedelic Trip Start](#trip-start)
+  - [Intro to my psychedelic realm](#But-wait)
   - [1. Mandelbrot Set](#-mandelbrot-set)
   - [2. Julia Set](#-julia-set)
   - [3. Newton Set](#-newton-set)
@@ -46,7 +47,7 @@
 
 ---
 
-
+<a id="Alright"></a>
 **Alright, SALAM O ALAYKUM *brothers*...**
 
 PEACE to all the homies that they like us...  
@@ -63,7 +64,7 @@ and for the haters that they don't like us... ***you already know***
 </div>
 
 
-
+<a id="Big"></a>
 **Big dédicace to my brothers:**
 + ***Lotfi aniki* a.k.a BH madfack tu connais...**
 + ***KiKi* MA MAN**
@@ -92,6 +93,8 @@ and for the haters that they don't like us... ***you already know***
 <br>
 
 <br>
+
+<a id="I-got-a-message-to-share"></a>
 
 <h3>ANYWHO...</h3>
 
@@ -143,10 +146,12 @@ This is **Fractol**... the real thing...
 
 <br>
 
+<a id="Let's-start"></a>
+
 <h3>ANYWHO... Let's start</h3>
 
 <p align="center">
-  <img src="img/moul_ndader_face.png" width="300"/>
+  <img src="img/moul_ndader_face.png" width="400"/>
 </p>
 
 <h4>
@@ -182,6 +187,7 @@ This is **Fractol**... the real thing...
 
 <br>
 
+<a id="I-got-the-solution-"></a>
 <em><strong>I got the solution : </strong></em>
 
 <p align="center">
@@ -212,6 +218,8 @@ This is **Fractol**... the real thing...
 
 <br>
 
+<a id="I'm-joking...-here-is-the-real-solution:"></a>
+
 <p align="center">
 <br><br>
   <h5>I'm joking... here is the <strong>real</strong> solution:</h5>
@@ -237,6 +245,8 @@ This is **Fractol**... the real thing...
 
 <br>
 
+<a id="the-second-formula-of-Mister-Julia"></a>
+
 <h4>And the second formula of <strong>Mister Julia</strong></h4>
 <h4>that you still sleeping on...</h4>
 <h4>here it is:</h4>
@@ -261,6 +271,8 @@ This is **Fractol**... the real thing...
 <br>
 
 <div>
+
+<a id="the-world"></a>
 
 *And F\*\*k the world.*  
 *F\*\*k money*  
@@ -293,6 +305,8 @@ I'm not afraid of nobody
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <br>
+
+<a id="trip-start"></a>
 
 ## <img src="img/mister_julia_logo_2.png" width="40"/> TRIP START
 
@@ -635,7 +649,7 @@ And starts being life.
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ INSTALLATION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2> INSTALLATION </h2>
+<h2 >INSTALLATION </h2>
 
 <br>
 
@@ -661,7 +675,7 @@ make
 <br>
 
 
-<h2> TECHNICAL DOCUMENTATION </h2>
+<h2>📚 TECHNICAL DOCUMENTATION 📚</h2>
 
 <br>
 
