@@ -421,12 +421,14 @@ and infinity feels... familiar
 
 <br>
 
+<div align="center">
+  <a href="https://youtu.be/ENhNzWIhICs">
+    <img src="img/mandelbrot_image.png" alt="Mandelbrot Trip" width="600" style="border-radius: 10px;"/>
+  </a>
+</div>
+
 <p align="center">
-
-[Video: Mandelbrot Trip](https://youtu.be/ENhNzWIhICs)
-
-*Zoom infinitely into the calm, hypnotic patterns...*
-
+  <em>Zoom infinitely into the calm, hypnotic patterns...</em>
 </p>
 
 </details>
@@ -492,12 +494,14 @@ you **feel** it.
 
 <br>
 
+<div align="center">
+  <a href="https://youtu.be/WUBJKsk-d94">
+    <img src="img/julia_image.png" alt="Julia Trip" width="600" style="border-radius: 10px;"/>
+  </a>
+</div>
+
 <p align="center">
-
-[Video: julia trip](https://youtu.be/WUBJKsk-d94)
-
-[*Feel the warmth, the connection, the euphoria...*](https://youtu.be/WUBJKsk-d94)
-
+  <em>Feel the warmth, the connection, the euphoria...</em>
 </p>
 
 </details>
@@ -563,12 +567,14 @@ Pure math hallucinating in real time.
 
 <br>
 
+<div align="center">
+  <a href="https://youtu.be/BB-6Dr_X3Ig">
+    <img src="img/newton_image.png" alt="Newton Trip" width="600" style="border-radius: 10px;"/>
+  </a>
+</div>
+
 <p align="center">
-
-[Video: Newton Trip](https://youtu.be/BB-6Dr_X3Ig)
-
-[*Fall into the mathematical void... surrender...*](https://youtu.be/BB-6Dr_X3Ig)
-
+  <em>Fall into the mathematical void... surrender...</em>
 </p>
 
 </details>
@@ -631,12 +637,14 @@ And starts being life.
 
 <br>
 
+<div align="center">
+  <a href="https://youtu.be/oKk68NgLGO0">
+    <img src="img/flower_image.png" alt="Flower Trip" width="600" style="border-radius: 10px;"/>
+  </a>
+</div>
+
 <p align="center">
-
-[Video: Flower Trip](https://youtu.be/oKk68NgLGO0)
-
-[*Where math becomes spiritual... where geometry breathes...*](https://youtu.be/oKk68NgLGO0)
-
+  <em>Where math becomes spiritual... where geometry breathes...</em>
 </p>
 
 </details>
