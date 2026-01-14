@@ -152,7 +152,7 @@ This is **Fractol**... the real thing...
 <h3>ANYWHO... Let's start</h3>
 
 <p align="center">
-  <img src="img/moul_ndader_face.png" width="400"/>
+  <img src="img/moul_ndader_face.png" width="300"/>
 </p>
 
 <h4>
