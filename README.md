@@ -731,7 +731,11 @@ make
 </p>
 
 <p align="center">
-  <img src="img/moul_ndader_keep_watching_me.png" alt="Fractol Banner" width="400"/>
+  <img src="img/moul_ndader_keep_watching_me.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Iron_Man-Will_Die-000000?style=for-the-badge&labelColor=ff0000" alt="Iron Man Will Die"/>
 </p>
 
 ---
