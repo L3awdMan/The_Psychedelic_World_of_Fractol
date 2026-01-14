@@ -183,7 +183,7 @@ The rendering process follows a linear pipeline for every frame:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    RENDERING PIPELINE                        │
+│                    RENDERING PIPELINE                       │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  1. PIXEL ITERATION                                         │
@@ -202,7 +202,7 @@ The rendering process follows a linear pipeline for every frame:
 │     └─> Write color to image memory                         │
 │                                                             │
 │  6. PRESENTATION                                            │
-│     └─> Push image buffer to window (mlx_put_image_to_window)│
+│     └─> Push image buffer to window(mlx_put_image_to_window)│
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
