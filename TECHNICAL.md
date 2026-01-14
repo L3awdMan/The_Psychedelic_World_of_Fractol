@@ -176,16 +176,14 @@ The application state is encapsulated in the `t_app` structure. Key components i
 - **Image Buffer:** A pixel array where the fractal is drawn before being pushed to the window.
 - **View State:** Stores the current zoom level (`scale`) and coordinates (`cx`, `cy`).
 - **Fractal Parameters:** Stores variable inputs like the Julia set constants (`c_re`, `c_im`).
-```
 
 ### The Rendering Pipeline
 
 The rendering process follows a linear pipeline for every frame:
 
-``` 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    RENDERING PIPELINE                       │
+│                    RENDERING PIPELINE                        │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  1. PIXEL ITERATION                                         │
@@ -204,11 +202,8 @@ The rendering process follows a linear pipeline for every frame:
 │     └─> Write color to image memory                         │
 │                                                             │
 │  6. PRESENTATION                                            │
-│     └─> Push image buffer to window(mlx_put_image_to_window)│
+│     └─> Push image buffer to window (mlx_put_image_to_window)│
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
-```
-``` 
-
 ```
 ---
