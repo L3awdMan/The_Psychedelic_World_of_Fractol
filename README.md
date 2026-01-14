@@ -71,7 +71,7 @@ and for the haters that they don't like us... ***you already know***
 + ***KiKi* MA MAN**
 + ***UwU* Anisse Kun**  
 + **Ladies and gentlemen *housii ya3ni***  
-+ **And of course we will not forget *shawz* my.. real.. G..**  
++ **And of course we will not forget *Pedro* my.. real.. G..**  
  *the one who inspired this whole madness...*
 
 > [👉 *Make sure to check his legendary document* 👈](https://github.com/baderelg/Fractol)
