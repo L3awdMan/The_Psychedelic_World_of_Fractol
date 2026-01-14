@@ -418,7 +418,7 @@ and infinity feels... familiar
 <br>
 
 <details>
-<summary><h4>🌿 [ Watch the Mandelbrot Trip VIDEO ] 🌿</h4></summary>
+<summary><h4>🌿 [ Watch the Mandelbrot Trip VIDEO ▶️] 🌿</h4></summary>
 
 <br>
 
@@ -495,7 +495,7 @@ you **feel** it.
 <br>
 
 <details>
-<summary><h4>💜 [ Enter Mister Julia's World ] 💜</h4></summary>
+<summary><h4>💜 [ Enter Mister Julia's World - VIDEO ▶️] 💜</h4></summary>
 
 <br>
 
@@ -572,7 +572,7 @@ Pure math hallucinating in real time.
 <br>
 
 <details>
-<summary><h4>🔴 [ Drop the Acid — Newton Set VIDEO ] 🔴</h4></summary>
+<summary><h4>🔴 [ Drop the Acid — Newton Set VIDEO ▶️ ] 🔴</h4></summary>
 
 <br>
 
@@ -646,7 +646,7 @@ And starts being life.
 <br>
 
 <details>
-<summary><h4>🌸 [ Hear the Colors ] 🌸</h4></summary>
+<summary><h4>🌸 [ Hear the Colors - Flower Set VIDEO ▶️ ] 🌸</h4></summary>
 
 <br>
 
