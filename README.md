@@ -28,13 +28,13 @@
 
 ##  Table of Contents
 
-- [Moul ndader speech](#Alright)
-  - [Moul Ndader Intro & Shoutout](#Alright)
+- [Moul Ndader speech](#Alright)
+  - [Intro & Shoutout](#Alright)
   - [Moul Ndader Message](#I-got-a-message-to-share)
-  - [Moul Ndader Studying hard](#Let's-start)
+  - [Studying hard](#Let's-start)
   - [Moul Ndader Solution](#I-got-the-solution-)
-  - [Moul Ndader Solve Newton Formula](#here-is-the-real-solution) 
-  - [Moul Ndader Solve Mister Julia Formula](#the-second-formula-of-Mister-Julia)
+  - [Solve Newton Formula](#here-is-the-real-solution) 
+  - [Solve Mister Julia Formula](#the-second-formula-of-Mister-Julia)
   - [Moul Ndader Challenge EVERYBODY](#the-world) 
 - [The Psychedelic Trip Start](#trip-start)
   - [Intro to my psychedelic realm](#trip-start)
@@ -42,8 +42,9 @@
   - [2. Julia Set](#-julia-set)
   - [3. Newton Set](#-newton-set)
   - [4. Flower Set](#-flower-set)
-- [Installation](#-installation)
-- [Technical Documentation](#-technical-documentation)
+- [Installation](#-Installation)
+- [Technical Documentation](#-Technical-Documentation)
+- [The End](#-The-End)
 
 ---
 
@@ -218,7 +219,7 @@ This is **Fractol**... the real thing...
 
 <br>
 
-<a id="I'm-joking...-here-is-the-real-solution:"></a>
+<a id="here-is-the-real-solution"></a>
 
 <p align="center">
 <br><br>
@@ -417,7 +418,7 @@ and infinity feels... familiar
 <br>
 
 <details>
-<summary><h4>🌿 [ Watch the Mandelbrot Trip ] 🌿</h4></summary>
+<summary><h4>🌿 [ Watch the Mandelbrot Trip VIDEO ] 🌿</h4></summary>
 
 <br>
 
@@ -428,7 +429,11 @@ and infinity feels... familiar
 </div>
 
 <p align="center">
-  <em>Zoom infinitely into the calm, hypnotic patterns...</em>
+  <em>
+    <a href="https://youtu.be/ENhNzWIhICs">
+      ▶️ Zoom infinitely into the calm, hypnotic patterns... ▶️
+    </a>
+  </em>
 </p>
 
 </details>
@@ -501,7 +506,11 @@ you **feel** it.
 </div>
 
 <p align="center">
-  <em>Feel the warmth, the connection, the euphoria...</em>
+  <em>
+    <a href="https://youtu.be/WUBJKsk-d94">
+      ▶️ Feel the warmth, the connection, the euphoria... ▶️
+    </a>
+  </em>
 </p>
 
 </details>
@@ -563,7 +572,7 @@ Pure math hallucinating in real time.
 <br>
 
 <details>
-<summary><h4>🔴 [ Drop the Acid — Newton Set ] 🔴</h4></summary>
+<summary><h4>🔴 [ Drop the Acid — Newton Set VIDEO ] 🔴</h4></summary>
 
 <br>
 
@@ -574,7 +583,11 @@ Pure math hallucinating in real time.
 </div>
 
 <p align="center">
-  <em>Fall into the mathematical void... surrender...</em>
+  <em>
+    <a href="https://youtu.be/BB-6Dr_X3Ig">
+      ▶️ Fall into the mathematical void... surrender... ▶️
+    </a>
+  </em>
 </p>
 
 </details>
@@ -644,7 +657,11 @@ And starts being life.
 </div>
 
 <p align="center">
-  <em>Where math becomes spiritual... where geometry breathes...</em>
+  <em>
+    <a href="https://youtu.be/oKk68NgLGO0">
+      ▶️ Where math becomes spiritual... where geometry breathes... ▶️
+    </a>
+  </em>
 </p>
 
 </details>
@@ -657,13 +674,15 @@ And starts being life.
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ INSTALLATION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2 >INSTALLATION </h2>
+<a id=" Installation"></a>
+
+<h2> INSTALLATION </h2>
 
 <br>
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fractol.git
+git clone https://github.com/L3awdMan/The_Psychedelic_World_of_Fractol/
 
 # Navigate to directory
 cd fractol
@@ -682,8 +701,9 @@ make
 
 <br>
 
+<a id=" Technical Documentation"></a>
 
-<h2>📚 TECHNICAL DOCUMENTATION 📚</h2>
+<h2> TECHNICAL DOCUMENTATION </h2>
 
 <br>
 
@@ -695,26 +715,24 @@ make
 
 <br>
 
----
-
-<p align="center">
-  <img src="img/Fractol_Banner.gif" alt="Fractol Banner" width="500"/>
-</p>
-
 <br>
 
-<p align="center">
-  <em>「 ...( ◎.◎ ).. Let's Dive into the infinite... 」</em>
-</p>
-
-<br>
+<a id=" The End"></a>
+<h2> THE END </h2>
 
 <p align="center">
-  <strong>Made with madness 🌀 && Moul Ndader </strong>
-  <br><br>
+  <em>
+    Alright…<br><br>
+    Why are you still here?<br><br>
+    I told you .. this is the end<br><br>
+    what are you really looking for?<br><br>
+    Go on… keep watching me.<br><br>
+  </em>
 </p>
 
-<br>
+<p align="center">
+  <img src="img/moul_ndader_keep_watching_me.png" alt="Fractol Banner" width="400"/>
+</p>
 
 ---
 
