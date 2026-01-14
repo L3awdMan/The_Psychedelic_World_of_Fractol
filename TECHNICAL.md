@@ -182,6 +182,7 @@ The application state is encapsulated in the `t_app` structure. Key components i
 
 The rendering process follows a linear pipeline for every frame:
 
+``` 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    RENDERING PIPELINE                       │
@@ -207,5 +208,7 @@ The rendering process follows a linear pipeline for every frame:
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
+``` 
 
+```
 ---
