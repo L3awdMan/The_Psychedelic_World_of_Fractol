@@ -42,9 +42,9 @@
   - [2. Julia Set](#-julia-set)
   - [3. Newton Set](#-newton-set)
   - [4. Flower Set](#-flower-set)
-- [Installation](#-Installation)
-- [Technical Documentation](#-Technical-Documentation)
-- [The End](#-The-End)
+- [Installation](#Installation)
+- [Technical Documentation](#Technical-Documentation)
+- [The End](#The-End)
 
 ---
 
@@ -674,7 +674,7 @@ And starts being life.
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░ INSTALLATION ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<a id=" Installation"></a>
+<a id="Installation"></a>
 
 <h2> INSTALLATION </h2>
 
@@ -701,7 +701,7 @@ make
 
 <br>
 
-<a id=" Technical Documentation"></a>
+<a id="Technical-Documentation"></a>
 
 <h2> TECHNICAL DOCUMENTATION </h2>
 
@@ -717,7 +717,7 @@ make
 
 <br>
 
-<a id=" The End"></a>
+<a id="The-End"></a>
 <h2> THE END </h2>
 
 <p align="center">
