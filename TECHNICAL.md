@@ -62,8 +62,8 @@ To convert a screen pixel to a complex number, we calculate the offset of that p
 real      = cx + (x - WIDTH/2) * scale
 imaginary = cy - (y - HEIGHT/2) * scale
 ```
-
-*Note: The Y-axis is inverted (subtracted) because screen coordinates increase downward, while the Cartesian Y-axis increases upward.*
+> [!NOTE]
+> The Y-axis is inverted (subtracted) because screen coordinates increase downward, while the Cartesian Y-axis increases upward
 
 ### The Point-Centered Zoom Algorithm
 
