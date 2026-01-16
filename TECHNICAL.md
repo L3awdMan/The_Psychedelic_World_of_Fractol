@@ -10,6 +10,7 @@
 
 This document details the architectural decisions, mathematical formulas, and rendering techniques used to generate the fractal imagery. It covers the coordinate systems, the continuous coloring algorithms, and the optimization strategies employed.
 
+
 ---
 
 ## Table of Contents
@@ -23,11 +24,6 @@ This document details the architectural decisions, mathematical formulas, and re
    - [Continuous Coloring (Anti-Aliasing)](#continuous-coloring-anti-aliasing)
    - [Procedural Palette Generation](#procedural-palette-generation)
    - [Depth and Intensity](#depth-and-intensity)
-
-3. [Project Architecture](#project-architecture)
-   - [Core State Management](#core-state-management)
-   - [The Rendering Pipeline](#the-rendering-pipeline)
-
 
 ---
 
@@ -166,44 +162,4 @@ intensity = 1.0 - exp(-0.030 * smooth_iter);
 
 This exponential decay creates a "glow" around the fractal edge and helps visually separate the complex structures from the background.
 
----
-
-### Core State Management
-
-The application state is encapsulated in the `t_app` structure. Key components include:
-
-- **MLX Pointers:** Handles for the graphics library and window.
-- **Image Buffer:** A pixel array where the fractal is drawn before being pushed to the window.
-- **View State:** Stores the current zoom level (`scale`) and coordinates (`cx`, `cy`).
-- **Fractal Parameters:** Stores variable inputs like the Julia set constants (`c_re`, `c_im`).
-
-### The Rendering Pipeline
-
-The rendering process follows a linear pipeline for every frame:
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    RENDERING PIPELINE                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  1. PIXEL ITERATION                                         │
-│     └─> Loop through every (x, y) coordinate on canvas      │
-│                                                             │
-│  2. COORDINATE MAPPING                                      │
-│     └─> Convert (x, y) to complex number (re, im)           │
-│                                                             │
-│  3. ESCAPE CALCULATION                                      │
-│     └─> Run fractal algorithm → get smooth iteration count  │
-│                                                             │
-│  4. COLORIZATION                                            │
-│     └─> Map iteration to RGB using palette + intensity      │
-│                                                             │
-│  5. BUFFERING                                               │
-│     └─> Write color to image memory                         │
-│                                                             │
-│  6. PRESENTATION                                            │
-│     └─> Push image buffer to window(mlx_put_image_to_window)│
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 ---
