@@ -647,7 +647,7 @@ And starts being life.
 <br>
 
 <div align="center">
-<summary><h4>🌸 [ ⬇️ Hear the Colors - Flower Set VIDEO ⬇️ ] 🌸</h4></summary>
+<h4>🌸 [ ⬇️ Hear the Colors - Flower Set VIDEO ⬇️ ] 🌸</h4>
 </div>
 
 <br>
