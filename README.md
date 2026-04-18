@@ -38,10 +38,10 @@
   - [Moul Ndader Challenge EVERYBODY](#the-world) 
 - [The Psychedelic Trip Start](#trip-start)
   - [Intro to my psychedelic realm](#trip-start)
-  - [1. Mandelbrot Set ▶️](#-mandelbrot-set)
-  - [2. Julia Set ▶️ ](#-julia-set)
-  - [3. Newton Set ▶️](#-newton-set)
-  - [4. Flower Set ▶️](#-flower-set)
+  - [1. Mandelbrot Set ▶️](#-mandelbrot-set) · [Watch the Mandelbrot Set ▶️](#mandelbrot-video)
+  - [2. Julia Set ▶️ ](#-julia-set) · [Watch the Julia Set ▶️](#julia-video)
+  - [3. Newton Set ▶️](#-newton-set) · [Watch the Newton Set ▶️](#newton-video)
+  - [4. Flower Set ▶️](#-flower-set) · [Watch the Flower Set ▶️](#flower-video)
 - [Installation](#Installation)
 - [Technical Documentation](#Technical-Documentation)
 - [The End](#The-End)
@@ -416,6 +416,7 @@ and infinity feels... familiar
 ```
 
 <br>
+<a id="mandelbrot-video"></a>
 <div align="center">
 <h4>😌 [⬇️ Watch the Mandelbrot Trip VIDEO ⬇️] 😌</h4>
 </div>
@@ -493,6 +494,7 @@ you **feel** it.
 
 <br>
 
+<a id="julia-video"></a>
 <div align="center">
 <h4>♾️ [⬇️ Enter Mister Julia's World - VIDEO ⬇️] ♾️</h4>
 </div>
@@ -571,6 +573,7 @@ Pure math hallucinating in real time.
 
 <br>
 
+<a id="newton-video"></a>
 <div align="center">
 <h4>👽 [ ⬇️ Drop the Acid — Newton Set VIDEO ⬇️ ] 👽</h4>
 </div>
@@ -646,6 +649,7 @@ And starts being life.
 
 <br>
 
+<a id="flower-video"></a>
 <div align="center">
 <h4>🌸 [ ⬇️ Hear the Colors - Flower Set VIDEO ⬇️ ] 🌸</h4>
 </div>
