@@ -38,10 +38,10 @@
   - [Moul Ndader Challenge EVERYBODY](#the-world) 
 - [The Psychedelic Trip Start](#trip-start)
   - [Intro to my psychedelic realm](#trip-start)
-  - [1. Mandelbrot Set](#-mandelbrot-set)
-  - [2. Julia Set](#-julia-set)
-  - [3. Newton Set](#-newton-set)
-  - [4. Flower Set](#-flower-set)
+  - [1. Mandelbrot Set ▶️](#-mandelbrot-set)
+  - [2. Julia Set ▶️ ](#-julia-set)
+  - [3. Newton Set ▶️](#-newton-set)
+  - [4. Flower Set ▶️](#-flower-set)
 - [Installation](#Installation)
 - [Technical Documentation](#Technical-Documentation)
 - [The End](#The-End)
@@ -320,14 +320,14 @@ I'm not afraid of nobody
 <p>
   But wait...
   <br><br>
-  Have you ever wondered what a <strong>trip</strong> looks like?
+  Have you ever wondered what taking <strong>DRUGS</strong> feels like?
 </p>
 
 <br>
 
 <div>
 
-That psychedelic realm where:
+Being under effect of that psychedelic realm where:
 
 **Shapes breathe**  
 **Colors have a sound**  
